@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=Breeze Horizontal
+Comment=An horizonal window switcher layout derived from the original Breeze one
+Icon=preferences-system-windows-switcher-big-icons
+
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+
+X-KDE-PluginInfo-Author=Bitblaster
+X-KDE-PluginInfo-Email=bitblasters@gmail.com
+X-KDE-PluginInfo-Name=BreezeHorizontal
+X-KDE-PluginInfo-Version=1.0
+
+X-KDE-PluginInfo-License=GPL
+X-KDE-ServiceTypes=KWin/WindowSwitcher
+Type=Service
